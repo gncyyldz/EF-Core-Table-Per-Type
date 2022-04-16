@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTPTExample", "EFCoreTPTExample\EFCoreTPTExample.csproj", "{487B6A71-76EC-4E1A-832D-E803150A114E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487B6A71-76EC-4E1A-832D-E803150A114E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487B6A71-76EC-4E1A-832D-E803150A114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487B6A71-76EC-4E1A-832D-E803150A114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487B6A71-76EC-4E1A-832D-E803150A114E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B296E87-34FF-4584-85EE-BFB9BEADD20D}
+	EndGlobalSection
+EndGlobal
